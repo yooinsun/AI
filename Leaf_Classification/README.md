@@ -2,7 +2,7 @@
 
 주어진 식물 사진을 통해 해당 식물의 종류와 병충해 종류를 분류하는 알고리즘 개발
 
-![](C:/Users/yooinsun/Desktop/leaf.png)
+(![leaf](https://user-images.githubusercontent.com/42930398/98788785-b5b75880-2444-11eb-81c5-bfb14e1448c6.PNG))
 
 ## Install
 
