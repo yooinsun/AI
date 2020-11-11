@@ -2,10 +2,7 @@
 
 주어진 식물 사진을 통해 해당 식물의 종류와 병충해 종류를 분류하는 알고리즘 개발
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-![](../header.png)
+![](C:/Users/yooinsun/Desktop/leaf.png)
 
 ## Install
 
